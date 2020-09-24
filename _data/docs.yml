@@ -1,0 +1,99 @@
+- title: General User
+  pages:
+  - title: Welcome
+  - title: What's new?
+  subpages:
+  - title: Meet Microshare®
+    pages:
+    - title: Why Microshare®?
+    - title: Technical Overview
+    - title: Demo
+    - title: Demo Live
+    - title: FAQ
+  - title: Quick Start
+    pages:
+    - title: Create an Account
+    - title: Dashboard Access Instructions
+    - title: Access my Apps
+    - title: Glossary
+
+- title: Admin
+  subpages:
+  - title: Admin Management
+    pages:
+    - title: Overview
+    - title: Identity Admin
+    - title: MS Admin
+    - title: Super Admin
+
+- title: Installer
+  subpages:
+  - title: Quick Start
+    pages:
+    - title: Overview
+    - title: Validation of a Successfull Installation
+    - title: Kerlink WMC
+    - title: FAQ About Installations
+  - title: Deploy-M
+    pages:
+    - title: Download the App
+    - title: App Guide
+    - title: Installation Tutorials
+  - title: LoRaWan
+    pages:
+    - title: Gateway Installation
+    - title: Device Declaration
+
+- title: Technical
+  subpages:
+  - title: Quick Start
+    pages:
+    - title: Overview
+    - title: Microshare® Technical Structure
+    - title: Data Integration
+    - title: Basic Dev Roadmap
+    - title: Advanced Dev Roadmap
+  - title: Data Format
+    pages:
+    - title: Overview
+    - title: Microshare® Standards
+    - title: Contact Tracing
+  - title: Microshare® Platform
+    pages:
+    - title: Quick Start
+    - title: Dashboard Guide
+    - title: Device Cluster Guide
+    - title: Rules Guide
+    - title: Views Guide
+  - title: Microshare® Platform Advanced
+    pages:
+    - title: Data Ingestion
+    - title: Data Unpacking
+    - title: Data Unpacking by Robots
+    - title: Identity Guide
+    - title: Robots Guide
+    - title: Robots Library
+  - title: Streaming Integration
+    pages:
+    - title: AWS Kinesis Data Stream Integration
+    - title: AWS SQS Integration
+    - title: Azure Event Hub Integration
+    - title: Azure IoT Hub Integration
+    - title: Google Pub/ Sub Integration
+  - title: API
+    pages:
+    - title: Quick Start
+    - title: Demo API
+    - title: Authentication
+    - title: Simple Requests
+    - title: Complex Requests
+    - title: API Collection
+  - title: LoRaWan®
+    pages:
+    - title: Why LoRaWan®?
+    - title: LoRaWan® Technology
+    - title: LoRaWan® Gateways
+    - title: LoRaWan® Devices
+  
+   
+    
