@@ -23,27 +23,3 @@ url: ""
 current_version:  2
 docs_version:     2
 
-###
-
-#url: "https://pfe-eseo.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: pfe-eseo_io
-#github_username:  pfe-eseo
-#github_url: "https://github.com/pfe-eseo"
-
-# _redirects file for Netlify should be included
-#include: ["_redirects"]
-
-# Build settings
-#plugins:
-#  - jekyll-feed
-
-#sass:
-#  style: compressed
-
-# Pages permalink
-#defaults:
-#  -
-#    scope:
-#      type: "posts"
-#    values:
-#      permalink: /blog/:year/:month/:day/:title/
