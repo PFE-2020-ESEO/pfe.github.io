@@ -16,7 +16,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-baseurl: "https://pfe-2020-eseo.github.io/pfe.github.io/"
+baseurl: ""
 url: ""
 
 # Custom vars
