@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/docs/2/informations-techniques/pourquoi-nous/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/2/aller-plus-loin/pourquoi-nous/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/2/utilisation/pourquoi-nous/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/2/premier-pas/pourquoi-nous/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/2/aller-plus-loin/l-outil/test/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/2/utilisation/l-outil/test/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/2/informations-techniques/l-outil/test/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/2/premier-pas/l-outil/test/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/index.html</loc>
-<lastmod>2015-12-02T18:34:46+01:00</lastmod>
+<lastmod>2020-11-12T11:35:00+01:00</lastmod>
 </url>
 </urlset>

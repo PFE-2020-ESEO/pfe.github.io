@@ -153,6 +153,7 @@ SOFTWARE.
 					this.addHoverEvents();
 				}
 				// finally, add click events
+				this.updateStyle("css/pink.css");
 				this.addClickEvents();
 			} else {
 				this.$root.addClass('jssError error level0');
@@ -160,6 +161,7 @@ SOFTWARE.
 		},
 
 		setDefaultTheme: function () {
+			console.log(this.config.defaultThemeId)
 			this.$themeCss = $('link[id=' + this.config.defaultThemeId + ']');
 			if(this.$themeCss.length) {
 				this.defaultTheme = this.$themeCss.attr('href');
