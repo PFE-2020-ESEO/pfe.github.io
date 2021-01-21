@@ -135,8 +135,10 @@
 
             $.ajax(settings).done(function (response) {
                 console.log(response);
-                if(response.result){
+                if(response.result == true){
                     document.getElementById("myResponse").innerHTML = "Mot de passe changé !";
+                } else {
+                    document.getElementById("myResponse").innerHTML = "Mot de passe non changé !";
                 }
             });
         }
