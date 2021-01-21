@@ -1,31 +1,5 @@
-- title: Premier Pas
-  pages:
-  - title: Pourquoi nous ?
-  subpages:
-  - title: L'outil
-    pages:
-    - title: Test
-
-- title: Utilisation
-  pages:
-  - title: Pourquoi nous ?
-  subpages:
-  - title: L'outil
-    pages:
-    - title: Test
-
-- title: Informations techniques
-  pages:
-  - title: Pourquoi nous ?
-  subpages:
-  - title: L'outil
-    pages:
-    - title: Test
-
-- title: Aller plus loin
-  pages:
-  - title: Pourquoi nous ?
-  subpages:
-  - title: L'outil
-    pages:
-    - title: Test
+- title: Bien demarrer
+- title: Fonctionnement global
+- title: Creer un compte
+- title: Lancer un outil
+- title: Devenir Developpeur
