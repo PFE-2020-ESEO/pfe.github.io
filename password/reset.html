@@ -37,11 +37,11 @@
                                                 </p>
                                                 <p id="myResponse" style="margin:0 30px 33px;; text-align:center; text-transform:uppercase; font-size:24px; line-height:30px; font-weight:bold; color:#484a42;">
                                                 </p>
-                                                <div style="text-align: center;"><b>New Password : </b><br><br><input minlength="8" id="mdp" style="width:60%;" type="password" id="name" name="name" required></div>
+                                                <div style="text-align: center;" id="div1"><b>New Password : </b><br><br><input minlength="8" id="mdp" style="width:60%;" type="password" id="name" name="name" required></div>
                                                 <br><br><br>
-                                                <div style="text-align: center;"><b>Repeat Password : </b><br><br><input minlength="8" id="mdp2" style="width:60%;" type="password" id="name" name="name" required></div>
+                                                <div style="text-align: center;"  id="div2"><b>Repeat Password : </b><br><br><input minlength="8" id="mdp2" style="width:60%;" type="password" id="name" name="name" required></div>
                                                 <br><br><br>
-                                                <div style="text-align: center;"><a onclick="myFunction()" style="text-align: center; padding:15px; cursor: pointer; border-radius: 5px; background-color: #f64662; color: white;"> Valider </a></div>
+                                                <div style="text-align: center;"  id="div3"><a onclick="myFunction()" style="text-align: center; padding:15px; cursor: pointer; border-radius: 5px; background-color: #f64662; color: white;"> Valider </a></div>
                                                 <br><br><br>
                                                 <!-- begin articles -->
                                                 
@@ -137,6 +137,9 @@
                 console.log(response);
                 if(response.result == true){
                     document.getElementById("myResponse").innerHTML = "Mot de passe changé !";
+                    document.getElementById("div1").innerHTML = ""
+                    document.getElementById("div2").innerHTML = ""
+                    document.getElementById("div3").innerHTML = ""
                 } else {
                     document.getElementById("myResponse").innerHTML = "Mot de passe non changé !";
                 }
