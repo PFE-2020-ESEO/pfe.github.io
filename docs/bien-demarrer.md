@@ -17,9 +17,9 @@ Alors découvrons cette plateforme et nos outils !
 
 Vous trouverez de nombreux boutons de téléchargement sur nos pasges, sinon voici les liens ci-dessous :
 
-**Téléchargement Mac :** [Télécharger]() 
+**Téléchargement Mac :** [Télécharger](https://actics.s3.eu-west-2.amazonaws.com/desktop/Actics.zip) 
 
-**Téléchargement Windows :** [Télécharger]()
+**Téléchargement Windows :** [Télécharger](https://actics.s3.eu-west-2.amazonaws.com/desktop/Actics.exe.zip)
 
 Ensuite placez le logiciel actics dans le dossier contenant toutes vos applications.
 
